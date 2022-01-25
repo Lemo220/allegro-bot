@@ -1,0 +1,749 @@
+25-10-2021 10-30-15|Nie zweryfikowano: 233600f1-356a-11ec-a7aa-3fd08b11e2a9 2021-10-25 10:04:44+02:00
+25-10-2021 14-53-47|Problem - wszed³em na z³y serwer
+25-10-2021 15-53-12|Problem - brak potwierdzenia transferu tc
+25-10-2021 15-53-12|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+25-10-2021 15-53-15|Blad przy realizacji: 14590 2021-10-25 15:26:38+02:00
+25-10-2021 15-57-16|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+25-10-2021 15-57-19|Blad przy realizacji: 14593 2021-10-25 15:26:38+02:00
+25-10-2021 16-03-01|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+25-10-2021 16-03-04|Blad przy realizacji: 14594 2021-10-25 15:26:38+02:00
+25-10-2021 16-16-10|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+25-10-2021 16-16-14|Blad przy realizacji: 14595 2021-10-25 15:26:38+02:00
+25-10-2021 17-15-26|Blad przy pobieraniu maili
+25-10-2021 19-54-09|Nie zweryfikowano: 6f1c9271-35bc-11ec-85f4-39790651ff7a 2021-10-25 19:53:27+02:00
+25-10-2021 20-06-13|Problem - wszed³em na z³y serwer
+25-10-2021 20-08-06|Nie zweryfikowano: 0093d731-35be-11ec-ad47-835f5994fb91 2021-10-25 20:05:50+02:00
+25-10-2021 20-13-55|Problem - wszed³em na z³y serwer
+26-10-2021 05-38-05|Blad przy pobieraniu maili
+26-10-2021 05-56-44|Blad przy pobieraniu maili
+26-10-2021 06-18-24|Blad przy pobieraniu maili
+26-10-2021 10-30-16|Nie zweryfikowano: 728caf51-3632-11ec-a7aa-3fd08b11e2a9 2021-10-26 09:58:29+02:00
+26-10-2021 10-32-56|Problem - wszed³em na z³y serwer
+26-10-2021 10-33-00|Problem z wejœciem na serwer
+26-10-2021 10-33-03|Blad przy realizacji: 14633 2021-10-26 10:31:35+02:00
+26-10-2021 13-18-00|Nie zweryfikowano: 3056d9f1-364e-11ec-a321-a1fe1f3b445a 2021-10-26 13:17:44+02:00
+26-10-2021 13-28-55|Problem - wszed³em na z³y serwer
+26-10-2021 16-19-12|Blad przy pobieraniu maili
+26-10-2021 17-14-27|Blad przy pobieraniu maili
+26-10-2021 19-10-03|Blad przy pobieraniu maili
+26-10-2021 19-47-00|Blad przy pobieraniu maili
+26-10-2021 19-53-17|Nie zweryfikowano: 7e4c90a2-3685-11ec-938c-d7feaf2d9069 2021-10-26 19:52:41+02:00
+26-10-2021 20-46-32|Blad przy pobieraniu maili
+26-10-2021 21-15-32|Blad przy pobieraniu maili
+26-10-2021 21-19-43|Nie zweryfikowano: 82f16a21-3691-11ec-a321-a1fe1f3b445a 2021-10-26 21:19:21+02:00
+26-10-2021 21-34-33|Blad przy pobieraniu maili
+26-10-2021 22-27-20|Blad przy pobieraniu maili
+27-10-2021 02-10-17|Blad przy pobieraniu maili
+27-10-2021 05-28-52|Blad przy pobieraniu maili
+27-10-2021 05-33-03|Blad przy pobieraniu maili
+27-10-2021 10-31-54|Problem - wszed³em na z³y serwer
+27-10-2021 15-33-34|Problem - wszed³em na z³y serwer
+27-10-2021 17-19-37|Blad przy pobieraniu maili
+27-10-2021 18-35-53|Nie zweryfikowano: bbeeab01-3743-11ec-9a0c-f7acec2df42a 2021-10-27 18:34:57+02:00
+27-10-2021 20-27-05|Blad przy pobieraniu maili
+27-10-2021 20-36-26|Blad przy pobieraniu maili
+27-10-2021 21-09-30|Blad przy pobieraniu maili
+27-10-2021 22-59-37|Blad przy pobieraniu maili
+28-10-2021 00-17-53|Blad przy pobieraniu maili
+28-10-2021 18-05-01|Nie zweryfikowano: bb433341-3808-11ec-8500-47c461184829 2021-10-28 18:04:36+02:00
+28-10-2021 18-09-58|Problem - wszed³em na z³y serwer
+28-10-2021 18-10-02|Problem z wejœciem na serwer
+28-10-2021 18-10-05|Blad przy realizacji: 14746 2021-10-28 18:08:27+02:00
+28-10-2021 18-12-00|Problem - wszed³em na z³y serwer
+28-10-2021 18-12-03|Problem z wejœciem na serwer
+28-10-2021 18-12-06|Blad przy realizacji: 14747 2021-10-28 18:10:27+02:00
+28-10-2021 22-16-32|Blad przy pobieraniu maili
+29-10-2021 09-32-50|Blad przy pobieraniu maili
+29-10-2021 11-00-03|Nie zweryfikowano: 564ba291-3896-11ec-a321-a1fe1f3b445a 2021-10-29 10:58:57+02:00
+29-10-2021 11-56-12|Nie zweryfikowano: 32763a81-389e-11ec-870a-1d6ee552325a 2021-10-29 11:55:08+02:00
+29-10-2021 11-59-21|Nie zweryfikowano: 32763a81-389e-11ec-870a-1d6ee552325a 2021-10-29 11:58:56+02:00
+29-10-2021 12-15-52|Nie zweryfikowano: f3635961-38a0-11ec-867a-3b8e8dd6ee0b 2021-10-29 12:15:08+02:00
+29-10-2021 12-16-58|Nie zweryfikowano: f3635961-38a0-11ec-867a-3b8e8dd6ee0b 2021-10-29 12:16:29+02:00
+29-10-2021 12-17-01|Nie zweryfikowano: 2a93eb71-38a1-11ec-81c0-6511f8e5a9f5 2021-10-29 12:16:01+02:00
+29-10-2021 13-55-46|Problem - wszed³em na z³y serwer
+29-10-2021 15-08-31|Problem - wszed³em na z³y serwer
+29-10-2021 15-31-06|Blad przy pobieraniu maili
+29-10-2021 15-33-14|Blad przy pobieraniu maili
+29-10-2021 16-19-16|Nie zweryfikowano: 2403f4e1-38c3-11ec-a3e3-256180626e0c 2021-10-29 16:19:07+02:00
+29-10-2021 18-25-37|Blad przy pobieraniu maili
+29-10-2021 18-26-42|Blad przy pobieraniu maili
+29-10-2021 18-27-47|Blad przy pobieraniu maili
+29-10-2021 18-28-52|Blad przy pobieraniu maili
+29-10-2021 18-31-06|Blad przy pobieraniu maili
+29-10-2021 19-48-52|Nie zweryfikowano: bbf3eaf1-38df-11ec-a72a-35789476f9a2 2021-10-29 19:48:07+02:00
+02-11-2021 14-31-36|Blad przy pobieraniu maili
+02-11-2021 14-32-47|Blad przy pobieraniu maili
+02-11-2021 14-33-52|Blad przy pobieraniu maili
+02-11-2021 16-04-05|Blad przy pobieraniu maili
+02-11-2021 16-34-05|Blad przy pobieraniu maili
+02-11-2021 16-35-17|Blad przy pobieraniu maili
+02-11-2021 17-06-32|Problem z zalogowaniem
+02-11-2021 17-06-35|Blad przy realizacji: 14897 2021-11-02 17:05:03+01:00
+02-11-2021 17-08-59|Nie zweryfikowano: 685535b1-34c1-11ec-993e-730c6bcaff42 2021-11-02 17:05:03+01:00
+02-11-2021 17-35-23|Blad przy pobieraniu maili
+02-11-2021 17-36-34|Blad przy pobieraniu maili
+02-11-2021 17-37-44|Blad przy pobieraniu maili
+02-11-2021 17-38-55|Blad przy pobieraniu maili
+02-11-2021 20-49-08|Blad przy pobieraniu maili
+02-11-2021 21-38-34|Blad przy pobieraniu maili
+02-11-2021 22-14-41|Blad przy pobieraniu maili
+03-11-2021 00-59-59|Nie zweryfikowano: d5647b11-3c38-11ec-a3e3-256180626e0c 2021-11-03 00:59:41+01:00
+03-11-2021 01-03-08|Nie zweryfikowano: d5647b11-3c38-11ec-a3e3-256180626e0c 2021-11-03 01:02:55+01:00
+03-11-2021 06-30-53|Blad przy pobieraniu maili
+03-11-2021 09-06-28|Blad przy pobieraniu maili
+03-11-2021 10-34-30|Blad przy pobieraniu maili
+03-11-2021 10-35-41|Blad przy pobieraniu maili
+03-11-2021 10-36-41|Blad przy pobieraniu maili
+03-11-2021 10-37-41|Blad przy pobieraniu maili
+03-11-2021 10-38-52|Blad przy pobieraniu maili
+03-11-2021 10-39-52|Blad przy pobieraniu maili
+03-11-2021 10-41-04|Blad przy pobieraniu maili
+03-11-2021 10-42-15|Blad przy pobieraniu maili
+03-11-2021 10-45-29|Blad przy pobieraniu maili
+03-11-2021 10-47-41|Blad przy pobieraniu maili
+03-11-2021 10-49-54|Blad przy pobieraniu maili
+03-11-2021 10-51-05|Blad przy pobieraniu maili
+03-11-2021 10-52-16|Blad przy pobieraniu maili
+03-11-2021 10-53-27|Blad przy pobieraniu maili
+03-11-2021 10-54-38|Blad przy pobieraniu maili
+03-11-2021 10-55-49|Blad przy pobieraniu maili
+03-11-2021 10-57-00|Blad przy pobieraniu maili
+03-11-2021 10-58-11|Blad przy pobieraniu maili
+03-11-2021 11-03-29|Blad przy pobieraniu maili
+03-11-2021 11-04-39|Blad przy pobieraniu maili
+03-11-2021 11-05-50|Blad przy pobieraniu maili
+03-11-2021 11-07-01|Blad przy pobieraniu maili
+03-11-2021 11-08-01|Blad przy pobieraniu maili
+03-11-2021 11-09-01|Blad przy pobieraniu maili
+03-11-2021 11-10-01|Blad przy pobieraniu maili
+03-11-2021 11-15-16|Blad przy pobieraniu maili
+03-11-2021 12-14-46|Blad przy pobieraniu maili
+03-11-2021 12-15-57|Blad przy pobieraniu maili
+03-11-2021 12-16-57|Blad przy pobieraniu maili
+03-11-2021 12-17-57|Blad przy pobieraniu maili
+03-11-2021 12-19-08|Blad przy pobieraniu maili
+03-11-2021 12-20-19|Blad przy pobieraniu maili
+03-11-2021 12-21-19|Blad przy pobieraniu maili
+03-11-2021 12-23-30|Blad przy pobieraniu maili
+03-11-2021 12-31-52|Blad przy pobieraniu maili
+03-11-2021 12-33-02|Blad przy pobieraniu maili
+03-11-2021 12-34-12|Blad przy pobieraniu maili
+03-11-2021 12-35-22|Blad przy pobieraniu maili
+03-11-2021 12-36-33|Blad przy pobieraniu maili
+03-11-2021 12-37-44|Blad przy pobieraniu maili
+03-11-2021 12-38-44|Blad przy pobieraniu maili
+03-11-2021 12-39-55|Blad przy pobieraniu maili
+03-11-2021 12-41-06|Blad przy pobieraniu maili
+03-11-2021 12-42-06|Blad przy pobieraniu maili
+03-11-2021 12-43-06|Blad przy pobieraniu maili
+03-11-2021 12-44-06|Blad przy pobieraniu maili
+03-11-2021 12-45-17|Blad przy pobieraniu maili
+03-11-2021 12-46-28|Blad przy pobieraniu maili
+03-11-2021 12-47-39|Blad przy pobieraniu maili
+03-11-2021 12-48-50|Blad przy pobieraniu maili
+03-11-2021 12-49-50|Blad przy pobieraniu maili
+03-11-2021 12-50-50|Blad przy pobieraniu maili
+03-11-2021 12-52-01|Blad przy pobieraniu maili
+03-11-2021 12-53-13|Blad przy pobieraniu maili
+03-11-2021 12-54-13|Blad przy pobieraniu maili
+03-11-2021 12-55-13|Blad przy pobieraniu maili
+03-11-2021 12-56-24|Blad przy pobieraniu maili
+03-11-2021 12-57-35|Blad przy pobieraniu maili
+03-11-2021 12-58-46|Blad przy pobieraniu maili
+03-11-2021 12-59-57|Blad przy pobieraniu maili
+03-11-2021 13-00-57|Blad przy pobieraniu maili
+03-11-2021 13-01-57|Blad przy pobieraniu maili
+03-11-2021 13-03-08|Blad przy pobieraniu maili
+03-11-2021 13-04-08|Blad przy pobieraniu maili
+03-11-2021 13-05-08|Blad przy pobieraniu maili
+03-11-2021 13-06-19|Blad przy pobieraniu maili
+03-11-2021 13-07-30|Blad przy pobieraniu maili
+03-11-2021 13-08-41|Blad przy pobieraniu maili
+03-11-2021 13-09-41|Blad przy pobieraniu maili
+03-11-2021 13-10-52|Blad przy pobieraniu maili
+03-11-2021 13-12-03|Blad przy pobieraniu maili
+03-11-2021 13-13-03|Blad przy pobieraniu maili
+03-11-2021 13-14-14|Blad przy pobieraniu maili
+03-11-2021 13-15-26|Blad przy pobieraniu maili
+03-11-2021 13-16-26|Blad przy pobieraniu maili
+03-11-2021 13-17-26|Blad przy pobieraniu maili
+03-11-2021 13-18-37|Blad przy pobieraniu maili
+03-11-2021 13-19-48|Blad przy pobieraniu maili
+03-11-2021 13-20-48|Blad przy pobieraniu maili
+03-11-2021 13-21-59|Blad przy pobieraniu maili
+03-11-2021 13-23-10|Blad przy pobieraniu maili
+03-11-2021 13-24-10|Blad przy pobieraniu maili
+03-11-2021 13-25-21|Blad przy pobieraniu maili
+03-11-2021 13-26-32|Blad przy pobieraniu maili
+03-11-2021 13-27-32|Blad przy pobieraniu maili
+03-11-2021 13-28-32|Blad przy pobieraniu maili
+03-11-2021 13-29-43|Blad przy pobieraniu maili
+03-11-2021 13-30-54|Blad przy pobieraniu maili
+03-11-2021 13-31-54|Blad przy pobieraniu maili
+03-11-2021 13-33-05|Blad przy pobieraniu maili
+03-11-2021 13-34-05|Blad przy pobieraniu maili
+03-11-2021 13-35-05|Blad przy pobieraniu maili
+03-11-2021 13-36-05|Blad przy pobieraniu maili
+03-11-2021 13-37-05|Blad przy pobieraniu maili
+03-11-2021 13-38-05|Blad przy pobieraniu maili
+03-11-2021 13-39-16|Blad przy pobieraniu maili
+03-11-2021 13-40-16|Blad przy pobieraniu maili
+03-11-2021 13-41-17|Blad przy pobieraniu maili
+03-11-2021 13-42-17|Blad przy pobieraniu maili
+03-11-2021 13-43-17|Blad przy pobieraniu maili
+03-11-2021 13-44-17|Blad przy pobieraniu maili
+03-11-2021 13-45-28|Blad przy pobieraniu maili
+03-11-2021 13-46-39|Blad przy pobieraniu maili
+03-11-2021 13-47-50|Blad przy pobieraniu maili
+03-11-2021 13-48-50|Blad przy pobieraniu maili
+03-11-2021 13-50-01|Blad przy pobieraniu maili
+03-11-2021 13-51-12|Blad przy pobieraniu maili
+03-11-2021 13-52-12|Blad przy pobieraniu maili
+03-11-2021 13-53-12|Blad przy pobieraniu maili
+03-11-2021 13-54-23|Blad przy pobieraniu maili
+03-11-2021 13-55-23|Blad przy pobieraniu maili
+03-11-2021 13-56-23|Blad przy pobieraniu maili
+03-11-2021 13-57-23|Blad przy pobieraniu maili
+03-11-2021 13-58-34|Blad przy pobieraniu maili
+03-11-2021 13-59-45|Blad przy pobieraniu maili
+03-11-2021 14-00-56|Blad przy pobieraniu maili
+03-11-2021 14-02-08|Blad przy pobieraniu maili
+03-11-2021 14-03-19|Blad przy pobieraniu maili
+03-11-2021 14-04-19|Blad przy pobieraniu maili
+03-11-2021 14-05-30|Blad przy pobieraniu maili
+03-11-2021 14-06-30|Blad przy pobieraniu maili
+03-11-2021 14-07-41|Blad przy pobieraniu maili
+03-11-2021 14-08-41|Blad przy pobieraniu maili
+03-11-2021 14-09-52|Blad przy pobieraniu maili
+03-11-2021 14-11-03|Blad przy pobieraniu maili
+03-11-2021 14-12-03|Blad przy pobieraniu maili
+03-11-2021 14-13-14|Blad przy pobieraniu maili
+03-11-2021 14-14-14|Blad przy pobieraniu maili
+03-11-2021 14-15-14|Blad przy pobieraniu maili
+03-11-2021 14-16-14|Blad przy pobieraniu maili
+03-11-2021 14-17-14|Blad przy pobieraniu maili
+03-11-2021 14-18-25|Blad przy pobieraniu maili
+03-11-2021 14-19-36|Blad przy pobieraniu maili
+03-11-2021 14-20-47|Blad przy pobieraniu maili
+03-11-2021 14-21-58|Blad przy pobieraniu maili
+03-11-2021 14-23-09|Blad przy pobieraniu maili
+03-11-2021 14-24-09|Blad przy pobieraniu maili
+03-11-2021 14-25-09|Blad przy pobieraniu maili
+03-11-2021 14-26-09|Blad przy pobieraniu maili
+03-11-2021 14-27-09|Blad przy pobieraniu maili
+03-11-2021 14-28-09|Blad przy pobieraniu maili
+03-11-2021 19-29-35|Blad przy pobieraniu maili
+03-11-2021 20-32-26|Blad przy pobieraniu maili
+03-11-2021 20-33-26|Blad przy pobieraniu maili
+03-11-2021 20-34-26|Blad przy pobieraniu maili
+03-11-2021 20-35-26|Blad przy pobieraniu maili
+03-11-2021 20-36-26|Blad przy pobieraniu maili
+03-11-2021 21-15-51|Blad przy pobieraniu maili
+03-11-2021 21-16-51|Blad przy pobieraniu maili
+03-11-2021 21-18-03|Blad przy pobieraniu maili
+03-11-2021 22-59-24|Blad przy pobieraniu maili
+04-11-2021 02-42-01|Blad przy pobieraniu maili
+04-11-2021 04-08-28|Blad przy pobieraniu maili
+04-11-2021 11-22-43|Nie zweryfikowano: f2126171-3d58-11ec-a803-a9cd87b232fb 2021-11-04 11:22:30+01:00
+04-11-2021 11-26-10|Nie zweryfikowano: 2a0a3b21-3d59-11ec-b423-9f835332f5ab 2021-11-04 11:24:45+01:00
+04-11-2021 11-59-35|Blad przy pobieraniu maili
+04-11-2021 13-55-50|Blad przy pobieraniu maili
+04-11-2021 16-46-41|Blad przy pobieraniu maili
+04-11-2021 19-11-32|Blad przy pobieraniu maili
+04-11-2021 20-31-57|Blad przy pobieraniu maili
+05-11-2021 05-39-29|Blad przy pobieraniu maili
+05-11-2021 12-27-03|Nie zweryfikowano: f9f8bf61-3e2a-11ec-9163-3b6a1ae10b1c 2021-11-05 12:26:47+01:00
+05-11-2021 13-10-50|Nie zweryfikowano: 27333631-3e31-11ec-9f95-cd0f1a490b64 2021-11-05 13:10:15+01:00
+05-11-2021 13-13-59|Nie zweryfikowano: 27333631-3e31-11ec-9f95-cd0f1a490b64 2021-11-05 13:13:16+01:00
+05-11-2021 13-17-08|Nie zweryfikowano: 27333631-3e31-11ec-9f95-cd0f1a490b64 2021-11-05 13:13:16+01:00
+05-11-2021 13-51-24|Nie zweryfikowano: c7fe4a51-3e36-11ec-9f95-cd0f1a490b64 2021-11-05 13:50:23+01:00
+05-11-2021 13-55-10|Problem - wszed³em na z³y serwer
+05-11-2021 14-04-10|Problem - brak potwierdzenia transferu tc
+05-11-2021 14-04-10|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-11-2021 14-04-13|Blad przy realizacji: 15019 2021-11-05 14:02:50+01:00
+05-11-2021 14-06-27|Problem - nie jestem w logging menu
+05-11-2021 14-06-29|Blad przy realizacji: 15021 2021-11-05 14:06:07+01:00
+05-11-2021 14-11-46|Nie zweryfikowano: 614dcf31-3e39-11ec-90b3-05079d0d0a19 2021-11-05 14:11:14+01:00
+05-11-2021 14-12-46|Problem - brak potwierdzenia transferu tc
+05-11-2021 14-12-46|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-11-2021 14-12-49|Blad przy realizacji: 15022 2021-11-05 14:02:50+01:00
+05-11-2021 14-14-55|Problem - brak potwierdzenia transferu tc
+05-11-2021 14-14-55|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-11-2021 14-14-58|Blad przy realizacji: 15026 2021-11-05 14:12:46+01:00
+05-11-2021 15-09-00|Nie zweryfikowano: 5f5e61a1-3e41-11ec-837e-7f516a350ff4 2021-11-05 15:08:31+01:00
+05-11-2021 15-09-03|Nie zweryfikowano: 90df4371-3e41-11ec-b158-79a978906802 2021-11-05 15:07:55+01:00
+05-11-2021 15-12-12|Nie zweryfikowano: 03b6d481-3e42-11ec-80d5-67051e545d8c 2021-11-05 15:11:06+01:00
+05-11-2021 15-52-23|Problem - brak potwierdzenia transferu tc
+05-11-2021 15-52-23|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-11-2021 15-52-26|Blad przy realizacji: 15042 2021-11-05 15:50:38+01:00
+05-11-2021 17-07-25|Nie zweryfikowano: 3bd79fb1-3e52-11ec-9163-3b6a1ae10b1c 2021-11-05 17:06:54+01:00
+05-11-2021 17-08-31|Nie zweryfikowano: 70621801-3e52-11ec-80d5-67051e545d8c 2021-11-05 17:08:03+01:00
+05-11-2021 17-30-32|Problem - wszed³em na z³y serwer
+05-11-2021 18-18-14|Nie zweryfikowano: 093563d1-3e5c-11ec-9e7c-b3b565d67b78 2021-11-05 18:17:56+01:00
+05-11-2021 19-29-28|Blad przy pobieraniu maili
+05-11-2021 20-22-08|Blad przy pobieraniu maili
+05-11-2021 21-58-30|Nie zweryfikowano: e93af491-3e7a-11ec-b158-79a978906802 2021-11-05 21:57:57+01:00
+05-11-2021 22-38-49|Blad przy pobieraniu maili
+06-11-2021 04-14-45|Nie zweryfikowano: 6cd39fd1-3eaf-11ec-9f95-cd0f1a490b64 2021-11-06 04:13:51+01:00
+06-11-2021 07-01-17|Blad przy pobieraniu maili
+20-11-2021 13-12-55|Blad przy pobieraniu maili
+20-11-2021 13-13-57|Blad przy pobieraniu maili
+20-11-2021 13-15-03|Nie zweryfikowano: 8aeb20a1-3ec4-11ec-9f95-cd0f1a490b64 2021-11-20 13:13:05+01:00
+20-11-2021 13-15-06|Nie zweryfikowano: 8aeb20a1-3ec4-11ec-9f95-cd0f1a490b64 2021-11-20 11:31:39+01:00
+20-11-2021 13-16-12|Blad przy pobieraniu maili
+20-11-2021 13-18-18|Nie zweryfikowano: 8aeb20a1-3ec4-11ec-9f95-cd0f1a490b64 2021-11-20 13:16:37+01:00
+20-11-2021 13-32-43|Blad przy pobieraniu maili
+20-11-2021 13-40-28|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 13-40-31|Blad przy realizacji: 51 2021-11-20 13:38:35+01:00
+20-11-2021 13-43-58|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 13-44-01|Blad przy realizacji: 52 2021-11-20 13:38:35+01:00
+20-11-2021 13-48-05|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 13-48-08|Blad przy realizacji: 53 2021-11-20 13:38:35+01:00
+20-11-2021 13-54-38|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 13-54-41|Blad przy realizacji: 60 2021-11-20 13:38:35+01:00
+20-11-2021 13-56-13|Problem - wszed³em na z³y serwer
+20-11-2021 14-00-23|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 14-00-26|Blad przy realizacji: 61 2021-11-20 13:38:35+01:00
+20-11-2021 14-02-32|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 14-02-35|Blad przy realizacji: 62 2021-11-20 13:38:35+01:00
+20-11-2021 14-08-46|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 14-08-49|Blad przy realizacji: 63 2021-11-20 13:38:35+01:00
+20-11-2021 14-10-43|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+20-11-2021 14-10-46|Blad przy realizacji: 64 2021-11-20 13:38:35+01:00
+20-11-2021 15-43-46|Blad przy pobieraniu maili
+20-11-2021 17-25-27|Problem - wszed³em na z³y serwer
+20-11-2021 17-30-24|Blad przy pobieraniu maili
+21-11-2021 00-59-03|Blad przy pobieraniu maili
+21-11-2021 10-30-54|Problem - wszed³em na z³y serwer
+21-11-2021 10-57-21|Problem - wszed³em na z³y serwer
+21-11-2021 10-57-43|Problem - brak dostatecznej ilosc zlota
+21-11-2021 10-57-43|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+21-11-2021 10-57-46|Blad przy realizacji: 86 2021-11-21 10:56:01+01:00
+21-11-2021 12-20-25|Problem - wszed³em na z³y serwer
+21-11-2021 15-26-20|Problem - wszed³em na z³y serwer
+21-11-2021 20-57-22|Problem - wszed³em na z³y serwer
+22-11-2021 03-52-15|Blad przy pobieraniu maili
+22-11-2021 05-33-25|Blad przy pobieraniu maili
+22-11-2021 06-13-46|Nie zweryfikowano: cda81931-4b52-11ec-82fd-955b316cbbaf 2021-11-22 06:13:31+01:00
+22-11-2021 13-04-16|Blad przy pobieraniu maili
+22-11-2021 13-05-26|Blad przy pobieraniu maili
+22-11-2021 13-06-36|Blad przy pobieraniu maili
+22-11-2021 13-17-13|Blad przy pobieraniu maili
+22-11-2021 13-18-23|Blad przy pobieraniu maili
+22-11-2021 13-19-23|Blad przy pobieraniu maili
+22-11-2021 13-20-34|Blad przy pobieraniu maili
+22-11-2021 16-08-52|Blad przy pobieraniu maili
+22-11-2021 17-12-41|Problem - wszed³em na z³y serwer
+22-11-2021 17-42-05|Problem - wszed³em na z³y serwer
+22-11-2021 18-08-22|Problem - wszed³em na z³y serwer
+22-11-2021 21-13-49|Problem - wszed³em na z³y serwer
+22-11-2021 22-53-28|Nie zweryfikowano: 62b5fe81-4bde-11ec-a25f-dddbcab6d16a 2021-11-22 22:52:24+01:00
+22-11-2021 23-10-01|Problem - wszed³em na z³y serwer
+23-11-2021 00-14-13|Blad przy pobieraniu maili
+23-11-2021 06-40-30|Blad przy pobieraniu maili
+23-11-2021 08-19-04|Blad przy pobieraniu maili
+23-11-2021 11-55-21|Problem - wszed³em na z³y serwer
+23-11-2021 11-55-24|Problem z wejœciem na serwer
+23-11-2021 11-55-27|Blad przy realizacji: 156 2021-11-23 11:54:44+01:00
+23-11-2021 17-10-53|Problem - wszed³em na z³y serwer
+23-11-2021 20-23-34|Blad przy pobieraniu maili
+23-11-2021 20-48-11|Problem - wszed³em na z³y serwer
+24-11-2021 11-49-38|Nie zweryfikowano: fa21cfc1-4d13-11ec-a039-3f9b2541ef9d 2021-11-24 11:49:13+01:00
+24-11-2021 14-01-47|Blad przy pobieraniu maili
+24-11-2021 15-42-38|Problem z zalogowaniem
+24-11-2021 15-42-41|Blad przy realizacji: 198 2021-11-24 15:41:22+01:00
+24-11-2021 16-20-03|Problem - nie jestem w logging menu
+24-11-2021 16-20-06|Blad przy realizacji: 201 2021-11-24 16:19:10+01:00
+24-11-2021 18-11-04|Blad przy pobieraniu maili
+24-11-2021 22-11-30|Blad przy pobieraniu maili
+25-11-2021 01-08-32|Blad przy pobieraniu maili
+25-11-2021 02-03-18|Blad przy pobieraniu maili
+25-11-2021 02-40-33|Blad przy pobieraniu maili
+25-11-2021 03-58-05|Blad przy pobieraniu maili
+25-11-2021 04-20-52|Blad przy pobieraniu maili
+25-11-2021 05-04-14|Blad przy pobieraniu maili
+25-11-2021 05-20-50|Blad przy pobieraniu maili
+25-11-2021 08-40-47|Blad przy pobieraniu maili
+25-11-2021 11-40-51|Blad przy pobieraniu maili
+25-11-2021 12-04-44|Blad przy pobieraniu maili
+25-11-2021 12-07-55|Blad przy pobieraniu maili
+25-11-2021 14-34-12|Blad przy pobieraniu maili
+25-11-2021 15-14-30|Blad przy pobieraniu maili
+25-11-2021 15-58-58|Blad przy pobieraniu maili
+25-11-2021 19-05-28|Blad przy pobieraniu maili
+25-11-2021 19-57-22|Nie zweryfikowano: 59715691-4e21-11ec-b541-197798e94d05 2021-11-25 19:57:05+01:00
+25-11-2021 20-06-11|Blad przy pobieraniu maili
+25-11-2021 23-08-17|Blad przy pobieraniu maili
+25-11-2021 23-15-35|Blad przy pobieraniu maili
+26-11-2021 00-48-13|Blad przy pobieraniu maili
+26-11-2021 01-12-08|Blad przy pobieraniu maili
+26-11-2021 01-47-51|Blad przy pobieraniu maili
+26-11-2021 01-55-13|Blad przy pobieraniu maili
+26-11-2021 05-44-21|Blad przy pobieraniu maili
+26-11-2021 11-15-04|Blad przy pobieraniu maili
+26-11-2021 11-29-45|Nie zweryfikowano: 85d6ded1-4ea3-11ec-95b4-ef38f2fbdb9b 2021-11-26 11:29:20+01:00
+26-11-2021 12-55-47|Blad przy pobieraniu maili
+26-11-2021 14-40-25|Blad przy pobieraniu maili
+26-11-2021 14-52-55|Nie zweryfikowano: 00927b91-4ec0-11ec-aeb2-77064bfe9e08 2021-11-26 14:52:28+01:00
+26-11-2021 16-24-41|Blad przy pobieraniu maili
+26-11-2021 16-34-35|Problem - wszed³em na z³y serwer
+26-11-2021 16-34-58|Problem - brak dostatecznej ilosc zlota
+26-11-2021 16-34-58|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+26-11-2021 16-35-01|Blad przy realizacji: 270 2021-11-26 16:33:38+01:00
+26-11-2021 16-41-22|Nie zweryfikowano: 018198b1-4ecf-11ec-b35e-ff3236f25386 2021-11-26 16:40:51+01:00
+26-11-2021 17-37-53|Problem - wszed³em na z³y serwer
+26-11-2021 17-53-52|Blad przy pobieraniu maili
+26-11-2021 18-32-00|Blad przy pobieraniu maili
+26-11-2021 18-33-05|Blad przy pobieraniu maili
+26-11-2021 18-52-56|Blad przy pobieraniu maili
+26-11-2021 21-48-59|Blad przy pobieraniu maili
+26-11-2021 21-50-04|Blad przy pobieraniu maili
+26-11-2021 22-04-58|Blad przy pobieraniu maili
+26-11-2021 22-51-26|Blad przy pobieraniu maili
+26-11-2021 22-53-34|Blad przy pobieraniu maili
+27-11-2021 04-06-43|Blad przy pobieraniu maili
+27-11-2021 05-44-45|Blad przy pobieraniu maili
+27-11-2021 07-03-45|Blad przy pobieraniu maili
+27-11-2021 09-36-45|Blad przy pobieraniu maili
+27-11-2021 14-57-33|Blad przy pobieraniu maili
+27-11-2021 16-10-34|Blad przy pobieraniu maili
+27-11-2021 16-38-32|Blad przy pobieraniu maili
+27-11-2021 18-12-55|Blad przy pobieraniu maili
+27-11-2021 18-15-04|Blad przy pobieraniu maili
+27-11-2021 18-16-09|Blad przy pobieraniu maili
+27-11-2021 18-30-52|Blad przy pobieraniu maili
+27-11-2021 22-47-35|Blad przy pobieraniu maili
+28-11-2021 01-42-55|Blad przy pobieraniu maili
+28-11-2021 03-20-00|Nie zweryfikowano: f94484c1-4fa8-11ec-82ad-add143a72d65 2021-11-27 18:40:38+01:00
+28-11-2021 08-10-24|Blad przy pobieraniu maili
+28-11-2021 09-27-14|Blad przy pobieraniu maili
+28-11-2021 09-28-27|Blad przy pobieraniu maili
+28-11-2021 09-29-27|Blad przy pobieraniu maili
+28-11-2021 12-27-03|Problem - wszed³em na z³y serwer
+28-11-2021 13-18-26|Nie zweryfikowano: 11b62d01-5045-11ec-82ad-add143a72d65 2021-11-28 13:17:51+01:00
+28-11-2021 13-22-37|Nie zweryfikowano: 11b62d01-5045-11ec-82ad-add143a72d65 2021-11-28 13:17:51+01:00
+28-11-2021 14-05-53|Problem - wszed³em na z³y serwer
+28-11-2021 15-06-57|Blad przy pobieraniu maili
+28-11-2021 15-07-59|Blad przy pobieraniu maili
+28-11-2021 15-09-02|Blad przy pobieraniu maili
+28-11-2021 15-10-04|Blad przy pobieraniu maili
+28-11-2021 15-25-37|Blad przy pobieraniu maili
+28-11-2021 16-20-55|Nie zweryfikowano: 85c91ae1-505e-11ec-85cd-adc391b1913e 2021-11-28 16:20:24+01:00
+28-11-2021 17-44-28|Nie zweryfikowano: 294c8981-506a-11ec-b637-199e5f99876f 2021-11-28 17:44:05+01:00
+28-11-2021 18-15-56|Nie zweryfikowano: 294c8981-506a-11ec-b637-199e5f99876f 2021-11-28 18:15:41+01:00
+28-11-2021 20-48-40|Nie zweryfikowano: dced4d81-5083-11ec-b937-6dfb19f572b8 2021-11-28 20:47:33+01:00
+28-11-2021 20-51-21|Problem - wszed³em na z³y serwer
+28-11-2021 21-44-52|Blad przy pobieraniu maili
+29-11-2021 01-50-10|Blad przy pobieraniu maili
+29-11-2021 02-09-50|Blad przy pobieraniu maili
+29-11-2021 04-02-19|Nie zweryfikowano: 8657d9d1-50c0-11ec-aeb2-77064bfe9e08 2021-11-29 04:01:21+01:00
+29-11-2021 10-30-18|Nie zweryfikowano: dc85a811-50f1-11ec-85cd-adc391b1913e 2021-11-29 09:55:56+01:00
+29-11-2021 10-30-55|Problem - wszed³em na z³y serwer
+29-11-2021 10-30-58|Problem z wejœciem na serwer
+29-11-2021 10-31-01|Blad przy realizacji: 385 2021-11-29 09:53:34+01:00
+29-11-2021 11-46-03|Problem - wszed³em na z³y serwer
+29-11-2021 11-46-07|Problem z wejœciem na serwer
+29-11-2021 11-46-11|Blad przy realizacji: 388 2021-11-29 09:53:34+01:00
+29-11-2021 11-48-33|Problem - wszed³em na z³y serwer
+29-11-2021 12-31-33|Blad przy pobieraniu maili
+29-11-2021 13-20-07|Problem - wszed³em na z³y serwer
+29-11-2021 14-35-17|Blad przy pobieraniu maili
+29-11-2021 14-47-31|Problem - wszed³em na z³y serwer
+29-11-2021 15-48-47|Blad przy pobieraniu maili
+29-11-2021 16-18-40|Problem - wszed³em na z³y serwer
+29-11-2021 16-18-43|Problem z wejœciem na serwer
+29-11-2021 16-18-46|Blad przy realizacji: 404 2021-11-29 16:17:15+01:00
+29-11-2021 16-20-38|Problem - wszed³em na z³y serwer
+29-11-2021 16-20-41|Problem z wejœciem na serwer
+29-11-2021 16-20-44|Blad przy realizacji: 405 2021-11-29 16:17:15+01:00
+29-11-2021 17-01-21|Blad przy pobieraniu maili
+29-11-2021 18-03-39|Nie zweryfikowano: fcda1531-5135-11ec-a93e-1336650b8644 2021-11-29 18:02:57+01:00
+29-11-2021 21-02-42|Blad przy pobieraniu maili
+29-11-2021 22-45-24|Blad przy pobieraniu maili
+29-11-2021 22-59-42|Problem - wszed³em na z³y serwer
+29-11-2021 22-59-46|Problem z wejœciem na serwer
+29-11-2021 22-59-50|Blad przy realizacji: 409 2021-11-29 22:58:32+01:00
+30-11-2021 03-11-00|Blad przy pobieraniu maili
+30-11-2021 04-27-51|Blad przy pobieraniu maili
+30-11-2021 05-23-44|Blad przy pobieraniu maili
+30-11-2021 06-50-37|Blad przy pobieraniu maili
+30-11-2021 07-18-00|Blad przy pobieraniu maili
+30-11-2021 10-30-49|Problem - wszed³em na z³y serwer
+30-11-2021 10-30-53|Problem z wejœciem na serwer
+30-11-2021 10-30-58|Blad przy realizacji: 427 2021-11-30 10:16:15+01:00
+30-11-2021 10-48-28|Blad przy pobieraniu maili
+30-11-2021 13-44-36|Blad przy pobieraniu maili
+30-11-2021 13-59-16|Blad przy pobieraniu maili
+30-11-2021 14-05-37|Blad przy pobieraniu maili
+30-11-2021 14-13-12|Blad przy pobieraniu maili
+30-11-2021 14-29-02|Problem - brak potwierdzenia transferu tc
+30-11-2021 14-29-02|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+30-11-2021 14-29-08|Blad przy realizacji: 436 2021-11-30 14:27:51+01:00
+30-11-2021 15-01-03|Problem - nie jestem w logging menu
+30-11-2021 15-01-11|Blad przy realizacji: 438 2021-11-30 14:59:58+01:00
+30-11-2021 15-24-06|Blad przy pobieraniu maili
+30-11-2021 15-26-14|Blad przy pobieraniu maili
+30-11-2021 15-27-19|Blad przy pobieraniu maili
+30-11-2021 15-53-03|Blad przy pobieraniu maili
+30-11-2021 16-09-17|Nie zweryfikowano: f30c7931-51ee-11ec-ae44-9b40ed6f39a9 2021-11-30 16:08:17+01:00
+30-11-2021 16-41-06|Nie zweryfikowano: b227d361-51f3-11ec-a730-d3adb5345367 2021-11-30 16:40:17+01:00
+30-11-2021 16-56-11|Blad przy pobieraniu maili
+30-11-2021 18-05-22|Blad przy pobieraniu maili
+30-11-2021 18-16-55|Blad przy pobieraniu maili
+30-11-2021 19-36-50|Blad przy pobieraniu maili
+30-11-2021 20-19-49|Blad przy pobieraniu maili
+30-11-2021 22-23-35|Blad przy pobieraniu maili
+01-12-2021 01-10-41|Blad przy pobieraniu maili
+01-12-2021 01-51-07|Blad przy pobieraniu maili
+01-12-2021 03-16-57|Blad przy pobieraniu maili
+01-12-2021 06-53-22|Blad przy pobieraniu maili
+01-12-2021 07-58-32|Blad przy pobieraniu maili
+01-12-2021 10-45-09|Problem - wszed³em na z³y serwer
+01-12-2021 10-45-12|Problem z wejœciem na serwer
+01-12-2021 10-45-16|Blad przy realizacji: 480 2021-12-01 10:44:32+01:00
+01-12-2021 15-08-19|Blad przy pobieraniu maili
+01-12-2021 17-33-07|Blad przy pobieraniu maili
+01-12-2021 19-26-23|Blad przy pobieraniu maili
+01-12-2021 19-33-25|Problem - wszed³em na z³y serwer
+01-12-2021 21-26-20|Blad przy pobieraniu maili
+01-12-2021 23-34-07|Blad przy pobieraniu maili
+01-12-2021 23-36-15|Blad przy pobieraniu maili
+02-12-2021 00-14-44|Blad przy pobieraniu maili
+02-12-2021 02-25-09|Blad przy pobieraniu maili
+02-12-2021 03-02-33|Blad przy pobieraniu maili
+02-12-2021 04-35-31|Blad przy pobieraniu maili
+02-12-2021 07-55-55|Nie zweryfikowano: c9343db1-533c-11ec-8bf7-71638677cc9d 2021-12-02 07:55:18+01:00
+02-12-2021 07-57-01|Nie zweryfikowano: f139e851-533c-11ec-8bf7-71638677cc9d 2021-12-02 07:56:26+01:00
+02-12-2021 09-45-26|Blad przy pobieraniu maili
+02-12-2021 10-34-54|Problem - wszed³em na z³y serwer
+02-12-2021 10-34-57|Problem z wejœciem na serwer
+02-12-2021 10-35-00|Blad przy realizacji: 523 2021-12-02 10:33:43+01:00
+02-12-2021 10-38-45|Problem - wszed³em na z³y serwer
+02-12-2021 10-38-48|Problem z wejœciem na serwer
+02-12-2021 10-38-51|Blad przy realizacji: 525 2021-12-02 10:33:43+01:00
+02-12-2021 12-51-03|Problem - wszed³em na z³y serwer
+02-12-2021 12-51-07|Problem z wejœciem na serwer
+02-12-2021 12-51-10|Blad przy realizacji: 528 2021-12-02 12:49:34+01:00
+02-12-2021 14-29-03|Problem - wszed³em na z³y serwer
+02-12-2021 14-29-07|Problem z wejœciem na serwer
+02-12-2021 14-29-10|Blad przy realizacji: 532 2021-12-02 14:27:36+01:00
+02-12-2021 15-24-55|Problem - wszed³em na z³y serwer
+02-12-2021 15-24-59|Problem z wejœciem na serwer
+02-12-2021 15-25-04|Blad przy realizacji: 535 2021-12-02 14:27:36+01:00
+02-12-2021 15-25-20|Problem - nie jestem w logging menu
+02-12-2021 15-25-24|Blad przy realizacji: 534 2021-12-02 10:33:43+01:00
+02-12-2021 15-26-18|Problem - wszed³em na z³y serwer
+02-12-2021 15-26-21|Problem z wejœciem na serwer
+02-12-2021 15-26-25|Blad przy realizacji: 533 2021-12-02 12:49:34+01:00
+02-12-2021 15-48-18|Blad przy pobieraniu maili
+02-12-2021 16-05-20|Blad przy pobieraniu maili
+02-12-2021 18-17-02|Blad przy pobieraniu maili
+02-12-2021 18-47-06|Nie zweryfikowano: 989ff671-5397-11ec-97c6-cb00626bacd6 2021-12-02 18:46:03+01:00
+02-12-2021 20-10-18|Blad przy pobieraniu maili
+02-12-2021 20-43-26|Blad przy pobieraniu maili
+02-12-2021 20-44-29|Blad przy pobieraniu maili
+02-12-2021 20-45-30|Blad przy pobieraniu maili
+02-12-2021 20-46-33|Blad przy pobieraniu maili
+02-12-2021 20-47-35|Blad przy pobieraniu maili
+02-12-2021 21-38-42|Blad przy pobieraniu maili
+03-12-2021 00-03-06|Blad przy pobieraniu maili
+03-12-2021 02-22-47|Blad przy pobieraniu maili
+03-12-2021 04-21-07|Blad przy pobieraniu maili
+03-12-2021 08-51-44|Blad przy pobieraniu maili
+03-12-2021 09-14-56|Blad przy pobieraniu maili
+03-12-2021 09-16-01|Blad przy pobieraniu maili
+03-12-2021 14-00-19|Blad przy pobieraniu maili
+03-12-2021 14-33-59|Blad przy pobieraniu maili
+03-12-2021 19-04-59|Problem - brak potwierdzenia transferu tc
+03-12-2021 19-04-59|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+03-12-2021 19-05-03|Blad przy realizacji: 604 2021-12-03 19:03:33+01:00
+03-12-2021 19-08-22|Problem - nie jestem w logging menu
+03-12-2021 19-08-26|Blad przy realizacji: 606 2021-12-03 19:08:04+01:00
+03-12-2021 20-22-28|Blad przy pobieraniu maili
+03-12-2021 20-23-39|Blad przy pobieraniu maili
+03-12-2021 20-46-54|Nie zweryfikowano: 755f4be1-5471-11ec-97c6-cb00626bacd6 2021-12-03 20:45:56+01:00
+03-12-2021 20-52-40|Problem - wszed³em na z³y serwer
+03-12-2021 21-54-49|Nie zweryfikowano: 2e193531-547a-11ec-93b4-cf23bd750942 2021-12-03 21:53:49+01:00
+04-12-2021 09-32-35|Problem - wszed³em na z³y serwer
+04-12-2021 10-30-18|Nie zweryfikowano: 431b08b1-54e2-11ec-b919-832ddf10eda5 2021-12-04 10:15:21+01:00
+04-12-2021 13-38-09|Problem - brak dostatecznej ilosc zlota
+04-12-2021 13-38-09|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+04-12-2021 13-38-12|Blad przy realizacji: 644 2021-12-04 13:36:03+01:00
+04-12-2021 14-34-52|Problem z zalogowaniem
+04-12-2021 14-34-55|Blad przy realizacji: 650 2021-12-04 14:33:39+01:00
+04-12-2021 18-09-42|Problem - wszed³em na z³y serwer
+04-12-2021 21-57-12|Blad przy pobieraniu maili
+05-12-2021 01-42-29|Problem - wszed³em na z³y serwer
+05-12-2021 06-20-17|Blad przy pobieraniu maili
+05-12-2021 08-04-28|Nie zweryfikowano: 59423071-5599-11ec-86be-d7e18e49c873 2021-12-05 08:03:55+01:00
+05-12-2021 11-07-27|Problem - wszed³em na z³y serwer
+05-12-2021 12-03-53|Problem - wszed³em na z³y serwer
+05-12-2021 13-44-46|Blad przy pobieraniu maili
+05-12-2021 15-07-11|Blad przy pobieraniu maili
+05-12-2021 15-28-56|Problem - brak potwierdzenia transferu tc
+05-12-2021 15-28-56|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-12-2021 15-28-59|Blad przy realizacji: 709 2021-12-05 15:27:19+01:00
+05-12-2021 15-34-19|Problem - nie jestem w logging menu
+05-12-2021 15-34-22|Blad przy realizacji: 711 2021-12-05 15:33:19+01:00
+05-12-2021 16-17-11|Problem - brak dostatecznej ilosc zlota
+05-12-2021 16-17-11|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+05-12-2021 16-17-14|Blad przy realizacji: 715 2021-12-05 16:15:51+01:00
+05-12-2021 17-07-40|Nie zweryfikowano: 4d0c3481-55e5-11ec-97c6-cb00626bacd6 2021-12-05 17:07:19+01:00
+05-12-2021 22-30-17|Nie zweryfikowano: 388a71c1-5612-11ec-a1c2-43931d2d959f 2021-12-05 22:29:28+01:00
+06-12-2021 07-17-27|Blad przy pobieraniu maili
+06-12-2021 08-08-02|Blad przy pobieraniu maili
+06-12-2021 10-31-20|Nie zweryfikowano: b66aae61-547e-11ec-8f05-3b1642fcc42d 2021-12-06 10:31:06+01:00
+06-12-2021 10-32-26|Nie zweryfikowano: b66aae61-547e-11ec-8f05-3b1642fcc42d 2021-12-06 10:31:57+01:00
+06-12-2021 12-33-34|Problem - wszed³em na z³y serwer
+06-12-2021 13-56-51|Blad przy pobieraniu maili
+06-12-2021 14-24-41|Blad przy pobieraniu maili
+06-12-2021 14-46-25|Blad przy pobieraniu maili
+06-12-2021 16-58-09|Nie zweryfikowano: 1de04251-56ad-11ec-97c6-cb00626bacd6 2021-12-06 16:57:20+01:00
+06-12-2021 17-44-44|Problem - brak potwierdzenia transferu tc
+06-12-2021 17-44-44|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+06-12-2021 17-44-47|Blad przy realizacji: 768 2021-12-06 17:43:08+01:00
+06-12-2021 18-31-19|Problem - nie jestem w logging menu
+06-12-2021 18-31-21|Blad przy realizacji: 769 2021-12-06 18:30:34+01:00
+06-12-2021 23-03-06|Problem - brak potwierdzenia transferu tc
+06-12-2021 23-03-06|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+06-12-2021 23-03-09|Blad przy realizacji: 773 2021-12-06 23:01:11+01:00
+06-12-2021 23-04-22|Problem - nie jestem w logging menu
+06-12-2021 23-04-25|Blad przy realizacji: 775 2021-12-06 23:02:10+01:00
+06-12-2021 23-24-00|Nie zweryfikowano: 726cf8d1-56e0-11ec-93b4-cf23bd750942 2021-12-06 23:04:44+01:00
+06-12-2021 23-37-27|Nie zweryfikowano: 32560011-56e1-11ec-8f05-3b1642fcc42d 2021-12-06 23:10:27+01:00
+06-12-2021 23-38-03|Nie zweryfikowano: 726cf8d1-56e0-11ec-93b4-cf23bd750942 2021-12-06 23:04:44+01:00
+06-12-2021 23-38-07|Nie zweryfikowano: 32560011-56e1-11ec-8f05-3b1642fcc42d 2021-12-06 23:10:27+01:00
+06-12-2021 23-44-46|Blad przy pobieraniu maili
+07-12-2021 08-16-07|Problem - wszed³em na z³y serwer
+07-12-2021 10-31-03|Problem - wszed³em na z³y serwer
+07-12-2021 10-31-05|Problem z wejœciem na serwer
+07-12-2021 10-31-09|Blad przy realizacji: 804 2021-12-07 09:49:28+01:00
+07-12-2021 10-44-24|Problem - wszed³em na z³y serwer
+07-12-2021 10-44-28|Problem z wejœciem na serwer
+07-12-2021 10-44-31|Blad przy realizacji: 805 2021-12-07 09:49:28+01:00
+07-12-2021 10-46-26|Problem - wszed³em na z³y serwer
+07-12-2021 10-46-29|Problem z wejœciem na serwer
+07-12-2021 10-46-32|Blad przy realizacji: 806 2021-12-07 09:49:28+01:00
+07-12-2021 12-41-41|Blad przy pobieraniu maili
+07-12-2021 12-54-06|Nie zweryfikowano: 28e0c011-5754-11ec-8aba-7bdc0bf8443e 2021-12-07 12:53:24+01:00
+07-12-2021 16-10-15|Blad przy pobieraniu maili
+07-12-2021 18-06-16|Blad przy pobieraniu maili
+07-12-2021 18-08-25|Nie zweryfikowano: 2236f461-5780-11ec-8aba-7bdc0bf8443e 2021-12-07 18:08:09+01:00
+07-12-2021 18-15-42|Blad przy pobieraniu maili
+07-12-2021 18-44-47|Blad przy pobieraniu maili
+07-12-2021 19-00-46|Blad przy pobieraniu maili
+07-12-2021 19-09-45|Problem - wszed³em na z³y serwer
+07-12-2021 20-33-45|Problem - wszed³em na z³y serwer
+07-12-2021 20-43-54|Nie zweryfikowano: cca17641-5795-11ec-a286-958259e99554 2021-12-07 20:43:35+01:00
+07-12-2021 21-28-22|Blad przy pobieraniu maili
+07-12-2021 21-48-05|Blad przy pobieraniu maili
+07-12-2021 22-21-21|Blad przy pobieraniu maili
+07-12-2021 22-33-58|Nie zweryfikowano: fbb92271-57a4-11ec-be36-276454e9b505 2021-12-07 22:33:42+01:00
+07-12-2021 23-16-44|Blad przy pobieraniu maili
+08-12-2021 01-19-25|Blad przy pobieraniu maili
+08-12-2021 03-28-50|Blad przy pobieraniu maili
+08-12-2021 09-42-08|Blad przy pobieraniu maili
+08-12-2021 10-41-07|Nie zweryfikowano: 8d124451-5808-11ec-8aba-7bdc0bf8443e 2021-12-08 10:40:58+01:00
+08-12-2021 11-47-21|Blad przy pobieraniu maili
+08-12-2021 12-19-22|Nie zweryfikowano: 4d7b7a41-5818-11ec-8144-77279593cd75 2021-12-08 12:18:36+01:00
+08-12-2021 13-10-06|Problem - brak dostatecznej ilosc zlota
+08-12-2021 13-10-06|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+08-12-2021 13-10-12|Blad przy realizacji: 911 2021-12-08 13:08:20+01:00
+08-12-2021 14-21-49|Blad przy pobieraniu maili
+08-12-2021 14-53-52|Blad przy pobieraniu maili
+08-12-2021 15-02-12|Blad przy pobieraniu maili
+08-12-2021 15-11-33|Blad przy pobieraniu maili
+08-12-2021 15-53-37|Blad przy pobieraniu maili
+08-12-2021 18-09-31|Blad przy pobieraniu maili
+08-12-2021 19-02-44|Blad przy pobieraniu maili
+08-12-2021 19-09-02|Blad przy pobieraniu maili
+08-12-2021 20-16-12|Nie zweryfikowano: cc988011-585a-11ec-b6a9-6bc772d67061 2021-12-08 20:15:30+01:00
+08-12-2021 20-19-55|Nie zweryfikowano: 8d6c5c81-585b-11ec-a34b-0565bfbf4706 2021-12-08 20:18:27+01:00
+08-12-2021 20-54-34|Nie zweryfikowano: 5b3753a1-5860-11ec-a34b-0565bfbf4706 2021-12-08 20:53:29+01:00
+08-12-2021 23-44-00|Nie zweryfikowano: 1eb0b621-5878-11ec-a286-958259e99554 2021-12-08 23:43:29+01:00
+08-12-2021 23-47-13|Nie zweryfikowano: 8d8f6eb1-5878-11ec-b6a9-6bc772d67061 2021-12-08 23:46:07+01:00
+08-12-2021 23-49-45|Nie zweryfikowano: e7969cd1-5878-11ec-bad7-456ec2f22da4 2021-12-08 23:48:51+01:00
+08-12-2021 23-50-26|Problem - wszed³em na z³y serwer
+09-12-2021 00-18-16|Blad przy pobieraniu maili
+09-12-2021 00-22-22|Problem - brak dostatecznej ilosc zlota
+09-12-2021 00-22-22|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 00-22-26|Blad przy realizacji: 965 2021-12-09 00:21:10+01:00
+09-12-2021 00-24-30|Problem - brak dostatecznej ilosc zlota
+09-12-2021 00-24-30|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 00-24-33|Blad przy realizacji: 966 2021-12-09 00:21:10+01:00
+09-12-2021 00-26-45|Blad przy pobieraniu maili
+09-12-2021 01-29-13|Nie zweryfikowano: dc213af1-5886-11ec-b6a9-6bc772d67061 2021-12-09 01:28:42+01:00
+09-12-2021 01-30-20|Nie zweryfikowano: dc213af1-5886-11ec-b6a9-6bc772d67061 2021-12-09 01:30:08+01:00
+09-12-2021 06-22-42|Blad przy pobieraniu maili
+09-12-2021 08-17-32|Blad przy pobieraniu maili
+09-12-2021 10-30-19|Nie zweryfikowano: bba6f0b1-58ce-11ec-b82e-550259b0727e 2021-12-09 10:03:15+01:00
+09-12-2021 10-36-56|Nie zweryfikowano: 26523bf1-58d3-11ec-be36-276454e9b505 2021-12-09 10:34:40+01:00
+09-12-2021 12-24-06|Nie zweryfikowano: 6af0ec71-58e2-11ec-8144-77279593cd75 2021-12-09 12:23:33+01:00
+09-12-2021 12-32-22|Problem - wszed³em na z³y serwer
+09-12-2021 13-53-37|Nie zweryfikowano: e952c821-58ee-11ec-a34b-0565bfbf4706 2021-12-09 13:53:10+01:00
+09-12-2021 14-06-07|Blad przy pobieraniu maili
+09-12-2021 15-00-50|Blad przy pobieraniu maili
+09-12-2021 15-01-56|Blad przy pobieraniu maili
+09-12-2021 15-03-01|Blad przy pobieraniu maili
+09-12-2021 15-04-06|Blad przy pobieraniu maili
+09-12-2021 15-05-11|Blad przy pobieraniu maili
+09-12-2021 15-29-28|Problem - brak wiadomosci zwrotnej po komendzie /hi
+09-12-2021 15-29-28|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 15-29-31|Blad przy realizacji: 1006 2021-12-09 15:28:02+01:00
+09-12-2021 15-33-55|Problem - brak wiadomosci zwrotnej po komendzie /hi
+09-12-2021 15-33-55|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 15-33-58|Blad przy realizacji: 1007 2021-12-09 15:28:02+01:00
+09-12-2021 15-36-10|Problem - brak wiadomosci zwrotnej po komendzie /hi
+09-12-2021 15-36-10|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 15-36-13|Blad przy realizacji: 1008 2021-12-09 15:28:02+01:00
+09-12-2021 16-15-30|Blad przy pobieraniu maili
+09-12-2021 18-16-50|Nie zweryfikowano: 720c9281-5913-11ec-a34b-0565bfbf4706 2021-12-09 18:15:47+01:00
+09-12-2021 18-21-03|Nie zweryfikowano: 720c9281-5913-11ec-a34b-0565bfbf4706 2021-12-09 18:20:24+01:00
+09-12-2021 19-29-43|Blad przy pobieraniu maili
+09-12-2021 20-25-01|Problem - wszed³em na z³y serwer
+09-12-2021 20-25-22|Problem - brak dostatecznej ilosc zlota
+09-12-2021 20-25-22|Problem - transkacja NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+09-12-2021 20-25-25|Blad przy realizacji: 1021 2021-12-09 20:23:43+01:00
+09-12-2021 20-28-13|Problem - wszed³em na z³y serwer
+09-12-2021 22-29-31|Blad przy pobieraniu maili
+09-12-2021 22-31-38|Blad przy pobieraniu maili
+09-12-2021 22-45-08|Nie zweryfikowano: fea3a1a1-5938-11ec-8aba-7bdc0bf8443e 2021-12-09 22:44:03+01:00
+09-12-2021 23-58-05|Blad przy pobieraniu maili
+10-12-2021 00-23-59|Blad przy pobieraniu maili
+10-12-2021 03-13-32|Blad przy pobieraniu maili
+10-12-2021 05-46-33|Blad przy pobieraniu maili
+10-12-2021 08-57-00|Blad przy pobieraniu maili
+10-12-2021 10-32-37|Problem - brak potwierdzenia transferu tc
+10-12-2021 10-32-37|Problem - TRANSAKCJA NIE ZOSTA£A ZREALIZOWANA POPRAWNIE
+10-12-2021 10-32-40|Blad przy realizacji: 1048 2021-12-10 09:50:04+01:00
+10-12-2021 11-57-30|Blad przy pobieraniu maili
+10-12-2021 11-57-46|Blad przy pobieraniu maili
+15-12-2021 10-42-59|Problem - nie jestem w logging menu
+20-12-2021 16-25-03|Nie zweryfikowano: 9764a911-6105-11ec-8448-4354b8b264b9 2021-12-19 20:56:12+01:00
+20-12-2021 16-25-06|Nie zweryfikowano: 727c4491-6174-11ec-9b1b-b59a24b4aaf1 2021-12-20 10:09:25+01:00
+20-12-2021 16-25-09|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-26-45|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-30-42|Nie zweryfikowano: 20573851-60ca-11ec-a9ff-f104d75f99ea 2021-12-19 13:51:12+01:00
+20-12-2021 16-31-32|Nie zweryfikowano: 20573851-60ca-11ec-a9ff-f104d75f99ea 2021-12-19 13:51:12+01:00
+20-12-2021 16-34-49|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-36-27|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-36-58|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-37-52|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+20-12-2021 16-44-57|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+17-01-2022 14-48-09|Nie zweryfikowano: e9f318c1-7798-11ec-b8c4-a9acc0b11fef 2022-01-17 14:27:40+01:00
+17-01-2022 14-49-26|Nie zweryfikowano: e9f318c1-7798-11ec-b8c4-a9acc0b11fef 2022-01-17 14:27:40+01:00
+22-01-2022 11-29-02|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+22-01-2022 11-34-46|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+22-01-2022 11-34-46|Blad przy realizacji: 1 2022-01-22T09:06:50.741Z
+22-01-2022 11-37-30|Problem z zalogowaniem
+22-01-2022 11-37-30|Blad przy realizacji: 1 2022-01-22T09:06:50.741Z
+24-01-2022 13-25-25|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+24-01-2022 13-27-44|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+24-01-2022 13-27-44|Blad przy realizacji: 80.00 2022-01-24T11:00:01.055Z
+24-01-2022 13-27-51|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+24-01-2022 13-27-51|Blad przy realizacji: 139.00 2022-01-23T22:40:22.232Z
+24-01-2022 13-28-38|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+24-01-2022 13-28-38|Blad przy realizacji: 31.00 2022-01-23T22:13:47.907Z
+24-01-2022 13-28-44|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
+24-01-2022 13-28-45|Blad przy realizacji: 17.50 2022-01-23T21:07:57.517Z
+25-01-2022 11-24-00|TIBIA NIE OTWORZONA - brak okna o nazwie tibia
